@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/whale_bot/static/css/main.b2c09d01.css",
+    "main.js": "/whale_bot/static/js/main.2ff6bb14.js",
+    "static/js/453.5af56b83.chunk.js": "/whale_bot/static/js/453.5af56b83.chunk.js",
+    "static/media/MainWindow.jpg": "/whale_bot/static/media/MainWindow.c06143a2059d99d933ac.jpg",
+    "static/media/Whale.png": "/whale_bot/static/media/Whale.cd597c7d91ce12757ca8.png",
+    "static/media/Coin.svg": "/whale_bot/static/media/Coin.004fced3229ee23bc802fb18053bec8c.svg",
+    "static/media/Whale.svg": "/whale_bot/static/media/Whale.e336a34e90469ce880941738f60168de.svg",
+    "static/media/Mine.svg": "/whale_bot/static/media/Mine.b9b38ea39a5cf912956dfac564fb54f0.svg",
+    "static/media/Upgrade.svg": "/whale_bot/static/media/Upgrade.bc30acae9d4d323af7a96529cbfd5b6e.svg",
+    "static/media/Friends.svg": "/whale_bot/static/media/Friends.195120983bc1a8c25703b52ce8ce4139.svg",
+    "static/media/Stream.svg": "/whale_bot/static/media/Stream.b86ded7c6ec392aebaebee4381eea2c9.svg",
+    "static/media/Drop.svg": "/whale_bot/static/media/Drop.bf301b6ca3affe7205a84390a2362ac0.svg",
+    "static/media/YellowDrop.svg": "/whale_bot/static/media/YellowDrop.ba1c517efd9651cc4011c8ac4fd998f7.svg",
+    "static/media/Icons.svg": "/whale_bot/static/media/Icons.05a47cfbb2cd9b0dae8e162d86657505.svg",
+    "static/media/Tasks.svg": "/whale_bot/static/media/Tasks.eb23e946d57e7f4892de6b95176845f4.svg",
+    "index.html": "/whale_bot/index.html",
+    "main.b2c09d01.css.map": "/whale_bot/static/css/main.b2c09d01.css.map",
+    "main.2ff6bb14.js.map": "/whale_bot/static/js/main.2ff6bb14.js.map",
+    "453.5af56b83.chunk.js.map": "/whale_bot/static/js/453.5af56b83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2c09d01.css",
+    "static/js/main.2ff6bb14.js"
+  ]
+}
