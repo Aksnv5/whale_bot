@@ -1,0 +1,61 @@
+.menu-bottom {
+    display: flex; /* Горизонтальное расположение */
+    /* justify-content: center;  Центрирование кнопок */
+    justify-self: start;
+    background-color: #1989D4; /* Фон меню */
+    /* padding: 10px 0; Отступы сверху и снизу */
+    width: 380px;
+    height: 70px;
+  }
+  
+  .menu-button{
+    display: flex; /* Горизонтальное расположение */
+    justify-content: center;  /*Центрирование кнопок*/
+    align-items: center; /* Центрируем содержимое по вертикали */
+    margin: 0px;
+    margin-top: 9px;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: flex;
+    height: 52px;
+    width: 66px;
+  }
+
+  .menu-button-items {
+    display: flex;
+    flex-direction: column; /* Иконка и текст расположены вертикально */
+    transition: background-color 0.3s, transform 0.3s; 
+    box-sizing: border-box; /* Включаем padding и border в ширину и высоту */
+    align-items: center; /* Центрирование содержимого по горизонтали */
+    text-decoration: none; /* Убираем подчеркивание */
+    color: inherit; /* Наследуем цвет текста */
+    /* height: 70px; */
+    /* padding: 10px; Внутренний отступ */
+    /* transition: background-color 0.3s, transform 0.3s; Плавная анимация на наведение */ 
+  }
+  
+  .menu-button:hover {
+    background-color: #2A7EB7; 
+    border-radius: 8px; 
+    transform: scale(1.02); 
+  }
+  
+  .menu-button img {
+    max-width: 100%; /* Иконка занимает всю ширину блока */
+    height: auto; /* Сохраняем пропорции иконки  */
+    margin-bottom: 8px; /* Отступ между иконкой и текстом */
+  }
+  
+  .menu-button span {
+
+        font-family: 'Gilroy';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 9px;
+        line-height: 110%;
+        /* identical to box height, or 10px */
+        /* text-align: center; */
+    
+        color: #FFFFFF;
+  }
+  

@@ -1,25 +1,26 @@
-import logo from './logo.svg';
+// src/App.js
+import React, { useState, useEffect } from 'react';
+import LoadingScreen from './components/LoadingScreen/LoadingScreen';
+import MainMenu from './components/MainMenu/MainMenu';
+import Animation from './components/TestAnimation/TestAnimation'
 import './App.css';
 
-function App() {
+const App = () => {
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    // Здесь вы можете имитировать загрузку данных, используя setTimeout
+    // или реальный запрос на сервер
+    setTimeout(() => {
+      setLoading(false);
+    }, 300); // Замените на реальное время загрузки
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {loading ? <LoadingScreen /> : <MainMenu/>}
     </div>
   );
-}
+};
 
 export default App;
