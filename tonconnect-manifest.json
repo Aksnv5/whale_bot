@@ -1,0 +1,7 @@
+{
+    "name": "My TON App",
+    "url": "http://localhost:3000",
+    "description": "Description of your app",
+    "iconUrl": "../src/assets/icon.png"
+  }
+  
