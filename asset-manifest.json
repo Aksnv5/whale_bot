@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/whale_bot/static/css/main.05859def.css",
-    "main.js": "/whale_bot/static/js/main.f115f010.js",
+    "main.js": "/whale_bot/static/js/main.86cd6754.js",
     "static/js/453.5af56b83.chunk.js": "/whale_bot/static/js/453.5af56b83.chunk.js",
     "static/media/MainWindow.jpg": "/whale_bot/static/media/MainWindow.c06143a2059d99d933ac.jpg",
     "static/media/FriendsBackround.png": "/whale_bot/static/media/FriendsBackround.d7eb1777610ba2baea6c.png",
@@ -20,11 +20,11 @@
     "static/media/Tasks.svg": "/whale_bot/static/media/Tasks.eb23e946d57e7f4892de6b95176845f4.svg",
     "index.html": "/whale_bot/index.html",
     "main.05859def.css.map": "/whale_bot/static/css/main.05859def.css.map",
-    "main.f115f010.js.map": "/whale_bot/static/js/main.f115f010.js.map",
+    "main.86cd6754.js.map": "/whale_bot/static/js/main.86cd6754.js.map",
     "453.5af56b83.chunk.js.map": "/whale_bot/static/js/453.5af56b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05859def.css",
-    "static/js/main.f115f010.js"
+    "static/js/main.86cd6754.js"
   ]
 }
